@@ -1,0 +1,36 @@
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Byte-compiled / optimized files
+*.egg-info/
+*.egg
+*.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Build artifacts
+build/
+dist/
+
+# ------------------------
+# PyCharm / JetBrains
+# ------------------------
+.idea/
+*.iml
+
+# ------------------------
+# OS Files
+# ------------------------
+.DS_Store
+Thumbs.db
